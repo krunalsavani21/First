@@ -1,4 +1,4 @@
-x=5
+p=15
 y=6
 print(x+y)
-print("It's Elevan")
+print("It's twenty one")
